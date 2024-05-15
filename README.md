@@ -1,4 +1,4 @@
-ola me chamo kaiky estudo em uma das melhores escolas do bairro , no momento estou tendo aula de tecnologia onde desenvolvi alguns projetosn um deles chama se  pong onde foi desenvolvido no java script 
+ola me chamo kaiky estudo em uma das melhores escolas do bairro , no momento estou tendo aula de tecnologia onde desenvolvi alguns projetos , um deles chama se  pong onde foi desenvolvido no java script 
 
 //variáveis da bolinha
 let xBolinha = 100;
